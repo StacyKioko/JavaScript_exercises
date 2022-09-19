@@ -1,5 +1,5 @@
 # Kevin Weather
-This repository is a practice exercise for JavaScript. The desired output is a Kelvin Weather
+This repository is a practice exercise for JavaScript. The desired output is code that converts kevin > Celsius > Fahrenheit > newton
 
 # Prompt
 
