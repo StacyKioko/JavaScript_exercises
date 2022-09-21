@@ -1,5 +1,5 @@
 ## JavaScript
-To read more about basics of JavaScript, see this [JavaScript documentation](https://github.com/StacyKioko/Technical-Documentation_Page)
+To read more about basics of JavaScript, see this [JavaScript documentation](https://stacykioko.github.io/Technical-Documentation_Page/)
 
 ## JavaScript Files
 
